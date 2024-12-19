@@ -1,0 +1,3 @@
+[submodule "ProphetNet"]
+	path = ProphetNet
+	url = https://github.com/Drorh473/data_mining.git
